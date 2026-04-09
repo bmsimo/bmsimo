@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bermaki</h1>
 <h3 align="center">A Software Engineer Passionate about Programming and AI</h3>
 
-- I’m currently working at [Micropole](https://www.micropole.com/)
+- I’m currently working at [Talan](https://www.talan.com)
 
 - I'm constantly Learning about new technologies 
 
